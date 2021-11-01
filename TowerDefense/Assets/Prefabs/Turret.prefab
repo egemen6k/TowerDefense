@@ -209,6 +209,7 @@ MonoBehaviour:
   range: 15
   enemyTag: Enemy
   partToRotate: {fileID: 3239983319583320296}
+  turnSpeed: 10
 --- !u!1 &7282769961634069413
 GameObject:
   m_ObjectHideFlags: 0
