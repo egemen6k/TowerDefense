@@ -7247,12 +7247,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 728775032}
   m_PrefabAsset: {fileID: 0}
---- !u!198 &732594498 stripped
-ParticleSystem:
-  m_CorrespondingSourceObject: {fileID: 6189567578447380334, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-    type: 3}
-  m_PrefabInstance: {fileID: 2030930865}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &751541134
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19017,85 +19011,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2022530403}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &2030930865
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5890856245761483844, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6189567578447380334, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: moveWithTransform
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6524403213988364029, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: impactEffect
-      value: 
-      objectReference: {fileID: 732594498}
-    - target: {fileID: 6524403213988364030, guid: 9de2dad9ce990744d8d94fc89a495aa8,
-        type: 3}
-      propertyPath: m_Name
-      value: LaserBeamer
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 9de2dad9ce990744d8d94fc89a495aa8, type: 3}
 --- !u!1001 &2050307161
 PrefabInstance:
   m_ObjectHideFlags: 0
