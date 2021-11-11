@@ -2,7 +2,6 @@
 
 public class BuildManager : MonoBehaviour
 {
-
     public static BuildManager Instance;
 
     private void Awake()
