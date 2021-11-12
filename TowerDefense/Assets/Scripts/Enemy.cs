@@ -26,7 +26,7 @@ public class Enemy : MonoBehaviour
     }
     public void TakeDamage(float amount)
     {
-        startHealth -= amount;
+        health -= amount;
 
         healthBar.fillAmount = health / startHealth;
 
